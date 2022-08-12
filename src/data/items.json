@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Watch",
+    "price": 10.99,
+    "imgUrl": "/imgs/watch.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bike",
+    "price": 200.99,
+    "imgUrl": "/imgs/bike.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Polaride Camera",
+    "price": 39.99,
+    "imgUrl": "/imgs/camera.jpg"
+  },
+  {
+    "id": 4,
+    "name": "DSLR Camera",
+    "price": 189.99,
+    "imgUrl": "/imgs/dslr.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Headphone",
+    "price": 19.99,
+    "imgUrl": "/imgs/headphone.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sunglass",
+    "price": 9.99,
+    "imgUrl": "/imgs/sunglass.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Shoes",
+    "price": 11.99,
+    "imgUrl": "/imgs/shoe.jpg"
+  }
+]
